@@ -8,7 +8,7 @@ function About() {
                 <div
                     className="absolute inset-0 h-full w-full scale-[0.80] transform rounded-full blur-3xl" />
                 <div
-                    className="relative flex h-full flex-col justify-center overflow-hidden rounded border border-gray-800 bg-gray-900 px-4 py-8 shadow-xl">
+                    className="relative flex h-full flex-col justify-center overflow-hidden rounded border border-gray-800 bg-gray-900 shadow-xl">
 
                     <Introduction />
 

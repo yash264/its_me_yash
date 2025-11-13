@@ -65,20 +65,19 @@ export const achievement = [
     title: "Participated in Hack'36 8.0",
     desc: "Shortlisted for annual Hackathon of MNNIT Allahabad among 75+ teams.",
     className: "md:col-span-2",
-    link: "https://drive.google.com/file/d/1bFqxIk8VTeUN2YuGCsqoWL9pjgYBdDJE/view?usp=sharing"
+    link: "https://drive.google.com/file/d/1_bVlQMXL1SvIl25hQYyLNf_jVgPOyhER/view?usp=sharing"
 },
 {
     id: 2,
     title: "Winner of Web Code",
     desc: "Achieved 1st place in a web development competition under Avishkar'24 at NIT Allahabad.",
     className: "md:col-span-2",
-    link: "https://www.linkedin.com/posts/ayush-tiwari-84a823281_thrilled-to-share-my-achievements-in-avishkar-activity-7264005934639644672-6nEq",
+    link: "https://drive.google.com/file/d/15tzdl03pxLPMwz0DlPs5InwYUXKxeMI3/view?usp=sharing",
 },
 {
     id: 3,
     title: "2nd Runner Up of Code Indrome",
     desc: "Secured 3rd position in a web designing event held under Rasayan's at NIT Allahabad.",
     className: "md:col-span-2",
-    link: "https://www.linkedin.com/posts/ayush-tiwari-84a823281_thrilled-to-share-my-achievements-in-avishkar-activity-7264005934639644672-6nEq",
 },
 ];
