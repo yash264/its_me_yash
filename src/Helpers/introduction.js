@@ -20,7 +20,7 @@ function Introduction() {
             <span className="block text-4xl sm:text-5xl font-semibold text-gray-300">
               Hello, I’m
             </span>
-            <span className="block text-6xl sm:text-7xl md:text-8xl text-red-400 bg-clip-text text-transparent mt-2 animate-gradient-x">
+            <span className="block text-6xl sm:text-7xl md:text-8xl text-red-400 mt-2">
               Yash
             </span>
           </h1>
