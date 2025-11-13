@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import profileImg from "../assets/it's_me_yash.jpg";
+import profileImg from "../assets/its_me_yash.jpg";
 
 
 function Introduction() {
