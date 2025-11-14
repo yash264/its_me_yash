@@ -5,7 +5,7 @@ Welcome to my **Personal Portfolio Website** — a modern, responsive web app bu
 ---
 
 ## 🚀 Live Demo
-🔗 **[https://yash-pandey.vercel.app/](https://yash-pandey.vercel.app/)**  
+🔗 **[https://yashpandey-mnnit.vercel.app/](https://yashpandey-mnnit.vercel.app/)**  
 
 ---
 
