@@ -27,7 +27,7 @@ const Navbar = () => {
             if (isRoute) navigate(link);
             else document.querySelector(link)?.scrollIntoView({ behavior: "smooth" });
 
-            setTimeout(() => setIsOpen(false), 500);
+            setTimeout(() => setIsOpen(false), 200);
       }
       else {
             if (isRoute) navigate(link);
