@@ -21,15 +21,19 @@ const Navbar = () => {
   const toggleMenu = () => setIsOpen(!isOpen);
 
   const handleNavClick = (link) => {
-    setIsOpen(false);
+      const isRoute = link.startsWith("/");
 
-    if (link.startsWith("/")) {
-      navigate(link);
-    } else {
-      const element = document.querySelector(link);
-      if (element) element.scrollIntoView({ behavior: "smooth" });
-    }
-  };
+      if (isOpen) {
+            if (isRoute) navigate(link);
+            else document.querySelector(link)?.scrollIntoView({ behavior: "smooth" });
+
+            setTimeout(() => setIsOpen(false), 500);
+      }
+      else {
+            if (isRoute) navigate(link);
+            else document.querySelector(link)?.scrollIntoView({ behavior: "smooth" });
+      }
+  }
 
   return (
     <motion.nav
